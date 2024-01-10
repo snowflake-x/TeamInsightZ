@@ -6,15 +6,15 @@ This is a plugin that can help you better understand your teammate's information
 This plugin is developed based on [Pengu Loader](https://pengu.lol).
 
 # Feature Introduction
-![Home](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/info/home.png "Home Preview")
+![Home](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/main/info/home.png "Home Preview")
 
 The home page can search for player information, just like below:
 
-![Search](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/info/search.png "Search Results")
+![Search](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/main/info/search.png "Search Results")
 
 Here, due to the server problem of the region I play in, the record list is not correctly displayed. Normally, the record list will appear below the player information.
 
-![Champion Selection](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/info/champselect.png "Champion Selection Interface")
+![Champion Selection](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/main/info/champselect.png "Champion Selection Interface")
 
 You can switch the record and player information through the switch below.
 
