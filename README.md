@@ -26,3 +26,4 @@ If you encounter any bugs during use, please submit an [issue](https://github.co
 # Contribute
 If you have any improvements or translations, please submit a PR. Your contribution is appreciated.
 
+Translation files are located at [i18n.json](https://github.com/LightningSw/TeamInsightZ/blob/main/src/i18n/i18n.json)
