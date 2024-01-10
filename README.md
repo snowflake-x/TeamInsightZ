@@ -21,7 +21,7 @@ You can switch the record and player information through the switch below.
 ### <span style="color:yellow;">Note</span> In Tencent (Chinese server), the season usage count is invalid.
 
 # Submit Issues
-If you encounter any bugs during use, please submit an [issue](https://raw.githubusercontent.com/LightningSw/TeamInsightZ/issues). I will handle it as soon as possible.
+If you encounter any bugs during use, please submit an [issue](https://github.com/LightningSw/TeamInsightZ/issues). I will handle it as soon as possible.
 
 # Contribute
 If you have any improvements or translations, please submit a PR. Your contribution is appreciated.
